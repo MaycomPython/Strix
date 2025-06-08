@@ -1,0 +1,10 @@
+exibir("Seja bem vindo a calculadora feita em Strix")
+exibir("1 - ADIÇÃO")
+exibir("2 - SUBTRAÇÃO")
+exibir("3 - MULTIPLICAÇÃO")
+exibir("4 - DIVISÃO")
+teclado = digitar("Digite alguma opção: ")
+se teclado == "1":
+    exibir("Você escolheu adição")
+senaose teclado == "2":
+        exibir("Você escolheu subtração")
